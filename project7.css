@@ -77,7 +77,8 @@
 }
 
 .s-3-text ul li:hover{
-Color: yellow
+Color: yellow;
+Cursor: pointer
 
 }
 
