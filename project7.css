@@ -76,6 +76,12 @@
     padding: 0px
 }
 
+.s-3-text ul li:hover{
+Color: yellow
+
+}
+
+
 .s-3-text ul li {
     font-weight: 500;
     padding: 7px 0px
